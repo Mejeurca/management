@@ -2,4 +2,4 @@
 - [Art and Fear](https://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733) (Bayles & Orland, 2001) - observations on pushing through difficult creative endeavors. 
 - [Wait](https://www.amazon.com/Wait-Science-Delay-Frank-Partnoy/dp/1610392477/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) (Frank Partnoy, 2012) - a review on the science of waiting.
 - [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) (Frederick Brooks, 1975) - a collection of essays about the perils of making software.
-- [The Speed of Trust] (https://www.amazon.com/SPEED-TRUST-Thing-Changes-Everything/dp/1416549005) (Stephen MR Covey, 2008) - a review and framework for building and maintaining trust.
+- [The Speed of Trust](https://www.amazon.com/SPEED-TRUST-Thing-Changes-Everything/dp/1416549005) (Stephen MR Covey, 2008) - a review and framework for building and maintaining trust.

@@ -3,4 +3,4 @@
 - [Wait](https://www.amazon.com/Wait-Science-Delay-Frank-Partnoy/dp/1610392477/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) (Frank Partnoy, 2012) - a review on the science of waiting.
 - [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) (Frederick Brooks, 1975) - a collection of essays about the perils of making software.
 - [The Speed of Trust](https://www.amazon.com/SPEED-TRUST-Thing-Changes-Everything/dp/1416549005) (Stephen MR Covey, 2008) - a review and framework for building and maintaining trust.
-- [Creativity Inc.] (https://www.creativityincbook.com/about/) (Ed Catmull, 2004) - an excellent review of how to build and lead creative teams.
+- [Creativity Inc.](https://www.creativityincbook.com/about/) (Ed Catmull, 2004) - an excellent review of how to build and lead creative teams.
